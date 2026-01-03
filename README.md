@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://camo.githubusercontent.com/7a231ba497cdf4fec0f16f6e85baf6285011e4bdef850cd7df08941ec790443e/68747470733a2f2f63646e2e63796265726475636b2e696f2f696d672f63796265726475636b2d69636f6e2d726563742d3531322e706e67" width="200" alt="Cyberduck application logo"><br>
- <a href="https://app-quick-app.github.io/.github/Cyberduck">
+ <a href="https://gnomik-gomik-apps.github.io/.github/Cyberduck">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Access Cyberduck macOS">
  </a><br><br>
  <div align="center">
